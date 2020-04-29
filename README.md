@@ -2,7 +2,7 @@
 
 
 Twitter Bot 
-* To read Timeline Tweets
+* To Print Timeline Tweets
 * To print Your Twitter Name or User Name
 * To print Followers count
 * To follow any User you give or to follow all your followers
